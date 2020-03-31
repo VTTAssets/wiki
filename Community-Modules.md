@@ -1039,15 +1039,15 @@ Adds a HUD button to toggle light of a specific radius.  For the dnd5e system, w
 ## VTTA Iconizer
 
 * **Author**: solfolango77#0880 on Discord. His Patreon can be found here: [https://www.patreon.com/vttassets](https://www.patreon.com/vttassets) 
-* **Version**: v1.0.2
-* **Foundry VTT Compatibility**: 0.4.0+
-* **System Compatibility (If applicable)**: "dnd5e" - shout out if I should anything, thanks!
+* **Version**: v2.1.2
+* **Foundry VTT Compatibility**: 0.4.0 - 0.5.3, last update 03/31/2020
+* **System Compatibility (If applicable)**: Generic
 * **Module Requirement(s)**: 
 * **Module Conflicts**:
 * **Translation Support**: EN (full), DE (full)
 
 ### Link(s) to Module
-* [https://www.vttassets.com/asset/vtta-iconizer](https://www.vttassets.com/asset/vtta-iconizer)
+* [https://www.vttassets.com/assets/vtta-iconizer](https://www.vttassets.com/assets/vtta-iconizer)
 
 ### Description
 Iconizer watches the creation of items in your world, and tries to find a suitable icon from a pre-populated name/icon dictionary. All you need to do, is
@@ -1056,18 +1056,16 @@ Iconizer watches the creation of items in your world, and tries to find a suitab
 - creating a dictionary
 - create items and watch the magic happen
 
-The item database comes pre-populated with 1800+ item name set, but lives from community contributions. While the database if 
-strongly tied to the item names from D&D Beyond it works best with DND5e, but can be adapted to any game system due to the ability
-to define custom databases, too
+The item database comes pre-populated with 2000+ item name set, but lives from community contributions. While the database if strongly tied to the item names from D&D Beyond it works best with DND5e, but can be adapted to any game system due to the ability to define custom databases, too.
 
 ---
 
 ## VTTA Tokenizer
 
 * **Author**: solfolango77#0880 on Discord. His Patreon can be found here: [https://www.patreon.com/vttassets](https://www.patreon.com/vttassets) 
-* **Version**: v1.0.12
-* **Foundry VTT Compatibility**: 0.4.3+
-* **System Compatibility (If applicable)**: "dnd5e", "pf2e", "archmage" - shout out if I should anything, thanks!
+* **Version**: v2.0.2
+* **Foundry VTT Compatibility**: 0.4.4 - 0.5.3, last update 03/31/2020
+* **System Compatibility (If applicable)**: Generic
 * **Module Requirement(s)**: Requires the player permission "Trusted Player"
 * **Module Conflicts**:
 * **Translation Support**: EN (full), DE (full)
@@ -1824,24 +1822,26 @@ Simple module that displays Speed, AC, and Passive Perception on Tokens for the 
 ## VTTA D&D Beyond Integration
 
 * **Author**: solfolango77#0880 on Discord. His Patreon can be found here: [https://www.patreon.com/vttassets](https://www.patreon.com/vttassets) 
-* **Version**: v1.0.2
-* **Foundry VTT Compatibility**: 0.4.0+
+* **Version**: v2.0.3
+* **Foundry VTT Compatibility**: 0.4.4 - 0.5.3, last Update 03/31/2020
 * **System Compatibility (If applicable)**:
 * **Module Requirement(s)**: None
 * **Module Conflicts**:
 * **Translation Support**: EN (full), DE (full)
 
 ### Link(s) to Module
-* [https://www.vttassets.com/asset/vtta-dndbeyond](https://www.vttassets.com/asset/vtta-dndbeyond)
+* [https://www.vttassets.com/assets/vtta-dndbeyond](https://www.vttassets.com/assets/vtta-dndbeyond)
+* [https://chrome.google.com/webstore/detail/vttassets-dd-beyond-found/mhbmahbbdgmmhbbfjbojneimkbkamoji](Chrome Extension, Companion application)
 
 ### Description
 The integration module provides you with the possibility to import
 
+* monsters (free for SRD content, being a Patreon required for everything else)
 * characters and their related
 * spells and
 * inventory items
 
-into the world and optionally into designated compendium packs (see [a suitable tiny module](https://www.vttassets.com/asset/shared) for a possible implementation). Is is supporting all features currently implemented into Foundry, including
+into the world and optionally into designated compendium packs. Is is supporting all features currently implemented into Foundry, including
 
 * Inventory: weapons, equipment, consumables (scrolls and potions), loot (everything else)
 * Character Features
@@ -1856,15 +1856,15 @@ into the world and optionally into designated compendium packs (see [a suitable 
 ## VTTA Party
 
 * **Author**: solfolango77#0880 on Discord. His Patreon can be found here: [https://www.patreon.com/vttassets](https://www.patreon.com/vttassets) 
-* **Version**: v1.0.0
-* **Foundry VTT Compatibility**: 0.4.0+
+* **Version**: v2.1.3, last Update 03/31/2020
+* **Foundry VTT Compatibility**: 0.4.4 - 0.5.3
 * **System Compatibility (If applicable)**:
 * **Module Requirement(s)**: None
 * **Module Conflicts**:
 * **Translation Support**: EN (full)
 
 ### Link(s) to Module
-* [https://www.vttassets.com/asset/vtta-party](https://www.vttassets.com/asset/vtta-party)
+* [https://www.vttassets.com/assets/vtta-party](https://www.vttassets.com/assets/vtta-party)
 
 ### Description
 Successor to fvtt-party, which is discontinued as of now. Provides both an overview about the party in regards to AC, HP, and passive perception/investigation/insight and adds tooltips for the actors of the currently active scene.
